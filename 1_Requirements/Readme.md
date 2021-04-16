@@ -5,11 +5,7 @@ As a project this tries to replicate the complete functioning of a real project.
 
 
 In this bank management system project in C, file handling has been used for almost all functions. File has been used to store data related to new account, transaction, editing of account information and viewing of account information. I haven’t used file handling for the menu, interest calculation and password.
-## Research
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoft-builder.com%2Fbank-management-system-database-model%2F&psig=AOvVaw09LOwTpWAcrS8S1FCSyX1T&ust=1618592457275000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCcj8jdgPACFQAAAAAdAAAAABAk]
-The above diagram is a high level implementation of the banking management system. 
 ## Cost and Features
-![Description](Link to Pic)
 There is only maintainance of the servers that is incured by the banks for the implementation
 We have the following functions included.
 menu() – This function displays the menu or welcome screen to perform different banking activities mentioned below.
